@@ -1,12 +1,11 @@
 .swiper-slide {
   display: flex;
-  height: 500px;
+  height: 100%;
   overflow: hidden;
   position: relative;
   flex-direction: row;
 }
 .swiper-slide > img {
-  position: absolute;
   width: 30%;
   height: 30%;
   max-width: 50%;
